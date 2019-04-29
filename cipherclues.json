@@ -1,0 +1,91 @@
+[
+  {
+    "text": "The cipher reveals who to speak to next: BMJ UIF LFCBC TFMMFS",
+    "npc": "Ali the Kebab seller",
+    "location": "Pollnivneach",
+    "answer": "399",
+    "type": "CIPHER"
+  },
+  {
+    "text": "The cipher reveals who to speak to next: GUHCHO",
+    "npc": "Drezel",
+    "location": "Paterdomus",
+    "answer": "7",
+    "type": "CIPHER"
+  },
+  {
+    "text": "The cipher reveals who to speak to next: ZCZL",
+    "npc": "Adam",
+    "location": "Outside Lumbridge castle",
+    "answer": "666",
+    "type": "CIPHER"
+  },
+  {
+    "text": "The cipher reveals who to speak to next: ZHLUG ROG PDQ",
+    "npc": "Weird Old Man",
+    "location": "Kalphite Lair entrance",
+    "answer": "150",
+    "type": "CIPHER"
+  },
+  {
+    "text": "The cipher reveals who to speak to next: ECRVCKP MJCNGF",
+    "npc": "Captain Khaled",
+    "location": "Large eastern building in Piscarilius House",
+    "answer": "5",
+    "type": "CIPHER"
+  },
+  {
+    "text": "The cipher reveals who to speak to next: OVEXON",
+    "npc": "Eluned",
+    "location": "Outside Lletya",
+    "answer": "53,000",
+    "type": "CIPHER"
+  },
+  {
+    "text": "The cipher reveals who to speak to next: VTYR APCNTGLW",
+    "npc": "King Percival",
+    "location": "Fisher Realm",
+    "answer": "5",
+    "type": "CIPHER"
+  },
+  {
+    "text": "The cipher reveals who to speak to next: UZZU MUJHRKYYKJ",
+    "npc": "Otto Godblessed",
+    "location": "Otto's Grotto",
+    "answer": "3",
+    "type": "CIPHER"
+  },
+  {
+    "text": "The cipher reveals who to speak to next: USBJCPSO",
+    "npc": "Traiborn",
+    "location": "Wizard's Tower, 2nd floor",
+    "answer": "3150",
+    "type": "CIPHER"
+  },
+  {
+    "text": "The cipher reveals who to speak to next: HCKTA IQFHCVJGT",
+    "npc": "Fairy Godfather",
+    "location": "Zanaris throne room",
+    "answer": "64",
+    "type": "CIPHER"
+  },
+  {
+    "text": "The cipher reveals who to speak to next: ZSBKDO ZODO",
+    "npc": "Pirate Pete",
+    "location": "Dock northeast of the Ectofunctus",
+    "type": "CIPHER"
+  },
+  {
+    "text": "The cipher reveals who to speak to next: GBJSZ RVFFO",
+    "npc": "Fairy Queen",
+    "location": "Fairy Resistance Hideout",
+    "type": "CIPHER"
+  },
+  {
+    "text": "The cipher reveals who to speak to next: QSPGFTTPS HSBDLMFCPOF",
+    "npc": "Professor Gracklebone",
+    "location": "Arceuus House Library, ground floor",
+    "answer": "9",
+    "type": "CIPHER"
+  }
+]
