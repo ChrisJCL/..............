@@ -1,0 +1,590 @@
+[
+  {
+    "text": "VEIL VEDA",
+    "npc": "Evil Dave",
+    "location": "Doris' basement, Edgeville",
+    "answer": "666"
+  },
+  {
+    "text": "MUS KIL READER",
+    "npc": "Radimus Erkle",
+    "location": "Legends' Guild",
+    "answer": "None"
+  },
+  {
+    "text": "HIS PHOR",
+    "npc": "Horphis",
+    "location": "Arceuus Library, Zeah",
+    "answer": "1"
+  },
+  {
+    "text": "QUIT HORRIBLE TYRANT",
+    "npc": "Brother Tranquility",
+    "location": "Mos Le'Harmless or Harmony Island",
+    "answer": "7"
+  },
+  {
+    "text": "GOBLIN KERN",
+    "npc": "King Bolren",
+    "location": "Tree Gnome Village",
+    "answer": "None"
+  },
+  {
+    "text": "KAY SIR",
+    "npc": "Sir Kay",
+    "location": "The courtyard in Camelot Castle",
+    "answer": "6"
+  },
+  {
+    "text": "MOLD LA RAN",
+    "npc": "Old Man Ral",
+    "location": "Meiyerditch",
+    "answer": "None"
+  },
+  {
+    "text": "DEKAGRAM",
+    "npc": "Dark Mage",
+    "location": "Centre of the Abyss",
+    "answer": "13"
+  },
+  {
+    "text": "LARK IN DOG",
+    "npc": "King Roald",
+    "location": "Ground floor of Varrock castle",
+    "answer": "24"
+  },
+  {
+    "text": "LOW LAG",
+    "npc": "Gallow",
+    "location": "Vinery in the Great Kourend",
+    "answer": "12"
+  },
+  {
+    "text": "VESTE",
+    "npc": "Steve",
+    "location": "Upstairs Wyvern Area or Stronghold Slayer Cave",
+    "answer": "2"
+  },
+  {
+    "text": "ERR CURE IT",
+    "npc": "Recruiter",
+    "location": "West Ardougne centre square",
+    "answer": "20"
+  },
+  {
+    "text": "AT HERG",
+    "npc": "Regath",
+    "location": "General Store, Arceuus, Zeah",
+    "answer": "25"
+  },
+  {
+    "text": "EL OW",
+    "npc": "Lowe",
+    "location": "Varrock archery store",
+    "answer": "None"
+  },
+  {
+    "text": "A ZEN SHE",
+    "npc": "Zenesha",
+    "location": "Platebody shop, Southern Ardougne centre square",
+    "answer": "None"
+  },
+  {
+    "text": "ICY FE",
+    "npc": "Fycie",
+    "location": "East Feldip Hills",
+    "answer": "None"
+  },
+  {
+    "text": "ACE MATCH ELM",
+    "npc": "Cam the Camel",
+    "location": "North of the glider in Al Kharid",
+    "answer": "None"
+  },
+  {
+    "text": "IM N ZEZIM",
+    "npc": "Immenizz",
+    "location": "The Imp inside Puro-Puro",
+    "answer": "None"
+  },
+  {
+    "text": "DRAGONS LAMENT",
+    "npc": "Strange Old Man",
+    "location": "Barrows",
+    "answer": "40"
+  },
+  {
+    "text": "A BAKER",
+    "npc": "Baraek",
+    "location": "Varrock square",
+    "answer": "5"
+  },
+  {
+    "text": "SNAH",
+    "npc": "Hans",
+    "location": "Lumbridge Castle courtyard",
+    "answer": "None"
+  },
+  {
+    "text": "ME IF",
+    "npc": "Femi",
+    "location": "Gates of Tree Gnome Stronghold",
+    "answer": "None"
+  },
+  {
+    "text": "I FAFFY RUN",
+    "npc": "Fairy Nuff",
+    "location": "North of the bank in Zanaris",
+    "answer": "None"
+  },
+  {
+    "text": "GULAG RUN",
+    "npc": "Uglug Nar",
+    "location": "West of Jiggig",
+    "answer": "None"
+  },
+  {
+    "text": "DR WARDEN FUNK",
+    "npc": "Drunken Dwarf",
+    "location": "East Side of Keldagrim",
+    "answer": "None"
+  },
+  {
+    "text": "EEK ZERO OP",
+    "npc": "Zookeeper",
+    "location": "Ardougne Zoo",
+    "answer": "40"
+  },
+  {
+    "text": "DR HITMAN OR DIM THARN",
+    "npc": "Mandrith",
+    "location": "Wilderness Resource Area",
+    "answer": "28 or Light boxor Puzzle box"
+  },
+  {
+    "text": "I AM SIR",
+    "npc": "Marisi",
+    "location": "Allotment patch, South coast Zeah",
+    "answer": "5"
+  },
+  {
+    "text": "HALT US",
+    "npc": "Luthas",
+    "location": "Banana plantation, Karamja",
+    "answer": "33 or 0"
+  },
+  {
+    "text": "ARC O LINE",
+    "npc": "Caroline",
+    "location": "North Witchaven next to the row boat",
+    "answer": "11"
+  },
+  {
+    "text": "C ON GAME HOC",
+    "npc": "Gnome Coach",
+    "location": "Gnome Ball course",
+    "answer": "6"
+  },
+  {
+    "text": "PROFS LOSE WRONG PIE",
+    "npc": "Professor Onglewip",
+    "location": "Ground floor Wizards Tower",
+    "answer": "None"
+  },
+  {
+    "text": "TWENTY CURE IRON",
+    "npc": "New recruit Tony",
+    "location": "Shayzien House's Graveyard",
+    "answer": "None"
+  },
+  {
+    "text": "ARMCHAIR THE PELT",
+    "npc": "Charlie the Tramp",
+    "location": "South entrance of Varrock",
+    "answer": "0"
+  },
+  {
+    "text": "CAREER IN MOON",
+    "npc": "Oneiromancer",
+    "location": "Astral altar",
+    "answer": "25"
+  },
+  {
+    "text": "RAT MAT WITHIN",
+    "npc": "Martin Thwait",
+    "location": "Rogues' Den",
+    "answer": "2"
+  },
+  {
+    "text": "FORLUN",
+    "npc": "Runolf",
+    "location": "Miscellania & Etceteria Dungeon",
+    "answer": "None"
+  },
+  {
+    "text": "MOTHERBOARD",
+    "npc": "Brother Omad",
+    "location": "Monastery south of Ardougne",
+    "answer": "129"
+  },
+  {
+    "text": "THICKNO",
+    "npc": "Hickton",
+    "location": "Catherby fletching shop",
+    "answer": "2"
+  },
+  {
+    "text": "SAND NUT",
+    "npc": "Dunstan",
+    "location": "Anvil in north east Burthorpe",
+    "answer": "8"
+  },
+  {
+    "text": "PACINNG A TAIE",
+    "npc": "Captain Ginea",
+    "location": "Building east of Shayzien combat ring",
+    "answer": "113"
+  },
+  {
+    "text": "DO SAY MORE",
+    "npc": "Doomsayer",
+    "location": "East of Lumbridge Castle",
+    "answer": "95"
+  },
+  {
+    "text": "THEM CAL CAME",
+    "npc": "Cam the Camel",
+    "location": "Just outside of the Duel Arena",
+    "answer": "None"
+  },
+  {
+    "text": "I DOOM ICON INN",
+    "npc": "Dominic Onion",
+    "location": "Nightmare Zone",
+    "answer": "9,500"
+  },
+  {
+    "text": "MAJORS LAVA BADS AIR",
+    "npc": "Ambassador Alvijar",
+    "location": "Northeast Dorgesh-Kaan, upper floor",
+    "answer": "2,505"
+  },
+  {
+    "text": "SEQUIN DIRGE",
+    "npc": "Queen Sigrid",
+    "location": "Throne room of Etceteria Castle.",
+    "answer": "None"
+  },
+  {
+    "text": "QUE SIR",
+    "npc": "Squire",
+    "location": "Falador Castle Courtyard",
+    "answer": "654"
+  },
+  {
+    "text": "HE DO POSE. IT IS CULTRRL, MK?",
+    "npc": "Riki the sculptor's model",
+    "location": "East Keldagrim, south of kebab seller.",
+    "answer": "None"
+  },
+  {
+    "text": "A BAS",
+    "npc": "Saba",
+    "location": "Death Plateau",
+    "answer": "None"
+  },
+  {
+    "text": "NOD MED",
+    "npc": "Edmond",
+    "location": "Behind the most NW house in East Ardougne",
+    "answer": "3"
+  },
+  {
+    "text": "COOL NERD",
+    "npc": "Old Crone",
+    "location": "East of the Slayer Tower",
+    "answer": "619"
+  },
+  {
+    "text": "AN PAINT TONIC",
+    "npc": "Captain Ninto",
+    "location": "Bar under White Wolf Mountain",
+    "answer": "None"
+  },
+  {
+    "text": "COPPER ORE CRYPTS",
+    "npc": "Prospector Percy",
+    "location": "Motherlode Mine",
+    "answer": "12"
+  },
+  {
+    "text": "R AK MI",
+    "npc": "Karim",
+    "location": "Al Kharid Kebab shop",
+    "answer": "5"
+  },
+  {
+    "text": "NO OWNER",
+    "npc": "Oronwen",
+    "location": "Lletya Seamstress shop in Lletya",
+    "answer": "20"
+  },
+  {
+    "text": "OR ZINC FUMES WARD",
+    "npc": "Wizard Frumscone",
+    "location": "Downstairs in the Wizards' Guild",
+    "answer": "None"
+  },
+  {
+    "text": "O BIRDZ A ZANY EN PC",
+    "npc": "Cap'n Izzy no Beard",
+    "location": "Brimhaven Agility Arena",
+    "answer": "33"
+  },
+  {
+    "text": "DT RUN B",
+    "npc": "Brundt the Chieftain",
+    "location": "Rellekka, main hall",
+    "answer": "4"
+  },
+  {
+    "text": "BY LOOK",
+    "npc": "Bolkoy",
+    "location": "Tree Gnome Village general store",
+    "answer": "13"
+  },
+  {
+    "text": "I EAT ITS CHART HINTS DO U",
+    "npc": "Shiratti the Custodian",
+    "location": "North of fountain, Nardah",
+    "answer": "None"
+  },
+  {
+    "text": "YAWNS GY",
+    "npc": "Ysgawyn",
+    "location": "Lletya",
+    "answer": "None"
+  },
+  {
+    "text": "OK CO",
+    "npc": "Cook",
+    "location": "Ground floor of Lumbridge Castle",
+    "answer": "9"
+  },
+  {
+    "text": "TAMED ROCKS",
+    "npc": "Dockmaster",
+    "location": "Piscarilius House, NE of General store",
+    "answer": "5"
+  },
+  {
+    "text": "BLUE BRIM GUIDED",
+    "npc": "Lumbridge Guide",
+    "location": "Outside of Lumbridge Castle",
+    "answer": "None"
+  },
+  {
+    "text": "LADDER MEMO GUV",
+    "npc": "Guard Vemmeldo",
+    "location": "Gnome Stronghold Bank",
+    "answer": "3"
+  },
+  {
+    "text": "MAL IN TAU",
+    "npc": "Luminata",
+    "location": "Near Burgh de Rott entrance",
+    "answer": "None"
+  },
+  {
+    "text": "HEORIC",
+    "npc": "Eohric",
+    "location": "Burthorpe Castle, top floor",
+    "answer": "36"
+  },
+  {
+    "text": "GOBLETS ODD TOES",
+    "npc": "Otto Godblessed",
+    "location": "Otto's Grotto",
+    "answer": "2"
+  },
+  {
+    "text": "LEAKEY",
+    "npc": "Kaylee",
+    "location": "Rising Sun Inn in Falador",
+    "answer": "18"
+  },
+  {
+    "text": "WOO AN EGG KIWI",
+    "npc": "Awowogei",
+    "location": "Ape Atoll",
+    "answer": "24"
+  },
+  {
+    "text": "ARE COL",
+    "npc": "Oracle",
+    "location": "Ice Mountain West of Edgeville",
+    "answer": "48"
+  },
+  {
+    "text": "AREA CHEF TREK",
+    "npc": "Father Aereck",
+    "location": "Lumbridge Church",
+    "answer": "19"
+  },
+  {
+    "text": "MACHETE CLAM",
+    "npc": "Cam the Camel",
+    "location": "Outside Duel Arena",
+    "answer": "6"
+  },
+  {
+    "text": "RED ART TANS",
+    "npc": "Trader Stan",
+    "location": "Port Sarim Charter ship",
+    "answer": "None"
+  },
+  {
+    "text": "UNLEASH NIGHT MIST",
+    "npc": "Sigli the Huntsman",
+    "location": "Rellekka",
+    "answer": "302"
+  },
+  {
+    "text": "ARR! SO I AM A CRUST, AND?",
+    "npc": "Ramara du Croissant",
+    "location": "Piscatoris Fishing Colony",
+    "answer": "None"
+  },
+  {
+    "text": "A HEART",
+    "npc": "Aretha",
+    "location": "Soul altar",
+    "answer": "2"
+  },
+  {
+    "text": "DED WAR",
+    "npc": "Edward",
+    "location": "Inside Rogue's Castle",
+    "answer": "None"
+  },
+  {
+    "text": "PEAK REFLEX",
+    "npc": "Flax keeper",
+    "location": "Flax field south of Seers Village",
+    "answer": "676"
+  },
+  {
+    "text": "SLAM DUSTER GRAIL",
+    "npc": "Guildmaster Lars",
+    "location": "Woodcutting guild, Zeah",
+    "answer": "None"
+  },
+  {
+    "text": "RATAI",
+    "npc": "Taria",
+    "location": "Rimmington bush patch",
+    "answer": "7"
+  },
+  {
+    "text": "SLIDE WOMAN",
+    "npc": "Wise Old Man",
+    "location": "Draynor Village",
+    "answer": "28"
+  },
+  {
+    "text": "BAIL TRIMS",
+    "npc": "Brimstail",
+    "location": "West of Stronghold Slayer Cave",
+    "answer": "None"
+  },
+  {
+    "text": "A BASIC ANTI POT",
+    "npc": "Captain Tobias",
+    "location": "Port Sarim",
+    "answer": "7"
+  },
+  {
+    "text": "BAKER CLIMB",
+    "npc": "Brambickle",
+    "location": "Trollweiss mountain",
+    "answer": "None"
+  },
+  {
+    "text": "GOT A BOY",
+    "npc": "Gabooty",
+    "location": "Centre of Tai Bwo Wannai",
+    "answer": "11"
+  },
+  {
+    "text": "AHA JAR",
+    "npc": "Jaraah",
+    "location": "Duel Arena hosptial",
+    "answer": "None"
+  },
+  {
+    "text": "CAR IF ICES",
+    "npc": "Sacrifice",
+    "location": "Zul-Andra",
+    "answer": "None"
+  },
+  {
+    "text": "OUR OWN NEEDS",
+    "npc": "Nurse Wooned",
+    "location": "Shayzien House Infirmary",
+    "answer": "52"
+  },
+  {
+    "text": "TEN WIGS ON",
+    "npc": "Wingstone",
+    "location": "Between Nardah & Agility Pyramid",
+    "answer": "None"
+  },
+  {
+    "text": "I EVEN",
+    "npc": "Nieve",
+    "location": "The slayer master in Gnome Stronghold",
+    "answer": "2"
+  },
+  {
+    "text": "ME AM THE CALC",
+    "npc": "Cam the Camel",
+    "location": "Outside Duel Arena",
+    "answer": "None"
+  },
+  {
+    "text": "SNAKES SO I SAIL",
+    "npc": "Lisse Isaakson",
+    "location": "Neitiznot",
+    "answer": "2"
+  },
+  {
+    "text": "LAND DOOMD",
+    "npc": "Odd Old Man",
+    "location": "Limestone mine northeast of Varrock",
+    "answer": "None"
+  },
+  {
+    "text": "DUO PLUG",
+    "npc": "Dugopul",
+    "location": "Graveyard on Ape Atoll",
+    "answer": "None"
+  },
+  {
+    "text": "R SLICER",
+    "npc": "Clerris",
+    "location": "Arceuus mine, Zeah",
+    "answer": "738"
+  },
+  {
+    "text": "MY MANGLE LAL",
+    "npc": "Lammy Langle",
+    "location": "Hosidius House spirit tree patch",
+    "answer": "None"
+  },
+  {
+    "text": "PEATY PERT",
+    "npc": "Party Pete",
+    "location": "Falador Party Room",
+    "answer": "None"
+  }
+]
