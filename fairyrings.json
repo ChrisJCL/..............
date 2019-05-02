@@ -1,227 +1,137 @@
 [
 {
-	"code": "AIQ",
-	"location": "Asgarnia: Mudskipper Point",
 	"image": "assets/fairyring/AIQ.png"
 },
 {
-	"code": "AIR",
-	"location": "Islands: South-east of Ardougne",
 	"image": "assets/fairyring/AIR.png"
 },
 {
-	"code": "AJQ",
-	"location": "Dungeons: Cave south of Dorgesh-Kaan",
 	"image": "assets/fairyring/AJQ.png"
 },
 {
-	"code": "AJR",
-	"location": "Kandarin: Slayer cave south-east of Rellekka",
 	"image": "assets/fairyring/AJR.png"
 },
 {
-	"code": "AJS",
-	"location": "Islands: Penguins near Miscellania.",
 	"image": "assets/fairyring/AJS.png"
 },
 {
-	"code": "AKQ",
-	"location": "Kandarin: Piscatoris Hunter area",
 	"image": "assets/fairyring/AKQ.png"
 },
 {
-	"code": "AKS",
-	"location": "Feldip Hills: Feldip Hunter area",
 	"image": "assets/fairyring/AKS.png"
 },
 {
-	"code": "ALP",
-	"location": "Islands: Lighthouse",
 	"image": "assets/fairyring/ALP.png"
 },
-{
-	"code": "ALQ",
-	"location": "Morytania: Haunted Woods east of Canifis",
+{,
 	"image": "assets/fairyring/ALQ.png"
 },
 {
-	"code": "ALR",
-	"location": "Other realms: Abyssal Area",
 	"image": "assets/fairyring/ALR.png"
 },
 {
-	"code": "ALS",
-	"location": "Kandarin: McGrubor's Wood",
 	"image": "assets/fairyring/ALS.png"
 },
 {
-	"code": "BIP",
-	"location": "Islands: South-west of Mort Myre",
 	"image": "assets/fairyring/BIP.png"
 },
 {
-	"code": "BIQ",
-	"location": "Kharidian Desert near Kalphite Hive.",
 	"image": "assets/fairyring/BIQ.png"
 },
 {
-	"code": "BIS",
-	"location": "Kandarin: Ardougne Zoo - Unicorns",
 	"image": "assets/fairyring/BIS.png"
 },
 {
-	"code": "BJR",
-	"location": "Other Realms: Realm of the Fisher King",
 	"image": "assets/fairyring/BJR.png"
 },
 {
-	"code": "BJS",
-	"location": "Islands: Near Zul-Andra",
 	"image": "assets/fairyring/BJS.png"
 },
 {
-	"code": "BKP",
-	"location": "Feldip Hills: South of Castle Wars",
 	"image": "assets/fairyring/BKP.png"
 },
 {
-	"code": "BKQ",
-	"location": "Other Realms: Enchanted Valley",
 	"image": "assets/fairyring/BKQ.png"
 },
 {
-	"code": "BKR",
-	"location": "Morytania: Mort Myre Swamp, south of Canifis",
 	"image": "assets/fairyring/BKR.png"
 },
 {
-	"code": "BKS",
-	"location": "Other Realms: Zanaris",
 	"image": "assets/fairyring/BKS.png"
 },
 {
-	"code": "BLP",
-	"location": "Dungeons: TzHaar area",
 	"image": "assets/fairyring/BLP.png"
 },
 {
-	"code": "BLR",
-	"location": "Kandarin: Legends' Guild",
 	"image": "assets/fairyring/BLR.png"
 },
 {
-	"code": "CIP",
-	"location": "Islands: Miscellania",
 	"image": "assets/fairyring/CIP.png"
 },
 {
-	"code": "CIQ",
-	"location": "Kandarin: North-west of Yanille",
 	"image": "assets/fairyring/CIQ.png"
 },
 {
-	"code": "CIS",
-	"location": "Zeah: North of the Arceuus House Library",
 	"image": "assets/fairyring/CIS.png"
 },
 {
-	"code": "CJR",
-	"location": "Kandarin: Sinclair Mansion (east)",
 	"image": "assets/fairyring/CJR.png"
 },
 {
-	"code": "CIR",
-	"location": "North-east of the Farming Guild",
 	"image": "assets/fairyring/CIR.png"
 },
-{
-	"code": "CKP",
-	"location": "Other Realms: Cosmic entity's plane",
+
 	"image": "assets/fairyring/CKP.png"
 },
 {
-	"code": "CKR",
-	"location": "Karamja: South of Tai Bwo Wannai Village",
 	"image": "assets/fairyring/CKR.png"
 },
 {
-	"code": "CKS",
-	"location": "Morytania: Canifis",
 	"image": "assets/fairyring/CKS.png"
 },
 {
-	"code": "CLP",
-	"location": "Islands: South of Draynor Village",
 	"image": "assets/fairyring/CLP.png"
 },
 {
-	"code": "CLR",
-	"location": "Islands: Ape Atoll",
 	"image": "assets/fairyring/CLR.png"
 },
 {
-	"code": "CLS",
-	"location": "Islands: Hazelmere's home",
 	"image": "assets/fairyring/CLS.png"
 },
-{
-	"code": "DIP",
-	"location": "Other Realms: Abyssal Nexus",
+
 	"image": "assets/fairyring/DIP.png"
 },
 {
-	"code": "DIR",
-	"location": "Other Realms: Gorak's Plane",
 	"image": "assets/fairyring/DIR.png"
 },
 {
-	"code": "DIQ",
-	"location": "Player-owned house Superior Garden",
 	"image": "assets/fairyring/DIQ.png"
 },
 {
-	"code": "DIS",
-	"location": "Misthalin: Wizards' Tower",
 	"image": "assets/fairyring/DIS.png"
 },
 {
-	"code": "DJP",
-	"location": "Kandarin: Tower of Life",
 	"image": "assets/fairyring/DJP.png"
 },
 {
-	"code": "DJR",
-	"location": "Zeah: Chasm of Fire",
 	"image": "assets/fairyring/DJR.png"
 },
 {
-	"code": "DKP",
-	"location": "Karamja: South of Musa Point",
 	"image": "assets/fairyring/DKP.png"
 },
 {
-	"code": "DKR",
-	"location": "Misthalin: Edgeville",
 	"image": "assets/fairyring/DKR.png"
 },
 {
-	"code": "DKS",
-	"location": "Kandarin: Polar Hunter area",
 	"image": "assets/fairyring/DKS.png"
 },
 {
-	"code": "DLQ",
-	"location": "Kharidian Desert: North of Nardah",
 	"image": "assets/fairyring/DLQ.png"
 },
 {
-	"code": "DLR",
-	"location": "Islands: Poison Waste south of Isafdar",
 	"image": "assets/fairyring/DLR.png"
 },
 {
-	"code": "DLS",
-	"location": "Dungeons: Myreque hideout under The Hollows",
 	"image": "assets/fairyring/DLS.png"
 }
 ]
