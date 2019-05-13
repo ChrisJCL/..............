@@ -1,6 +1,5 @@
 [
  {
-  "item": {
     "icon": "http://services.runescape.com/m=itemdb_oldschool/1557223258913_obj_sprite.gif?id=4151",
     "icon_large": "http://services.runescape.com/m=itemdb_oldschool/1557223258913_obj_big.gif?id=4151",
     "id": 4151,
@@ -28,7 +27,6 @@
     "day180": {
       "trend": "negative",
       "change": "-17.0%"
-    }
   }
  }
 ]
